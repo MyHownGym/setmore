@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Afficher une image locale</title>
+    <title>Image Relative</title>
 </head>
 <body>
-    <h1>Voici l'image depuis le même dossier :</h1>
-    <img src="Réservez.jpg" alt="Image locale">
+    <h1>Voici l'image :</h1>
+    <img src="Réservez.jpg" alt="Image relative">
 </body>
 </html>
